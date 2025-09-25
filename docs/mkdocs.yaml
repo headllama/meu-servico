@@ -1,0 +1,5 @@
+site_name: 'Meu Serviço API'
+nav:
+  - 'Visão Geral': 'index.md'
+  - 'Primeiros Passos': 'guia-rapido.md'
+  - 'Arquitetura': 'arquitetura.md'
