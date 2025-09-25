@@ -1,5 +1,8 @@
 site_name: 'Meu Serviço API'
 nav:
   - 'Visão Geral': 'index.md'
-  - 'Primeiros Passos': 'guia-rapido.md'
-  - 'Arquitetura': 'arquitetura.md'
+  - 'Guias':
+    - 'Configuração Inicial': 'guides/01-configuracao.md'
+    - 'Solução de Problemas': 'guides/02-troubleshooting.md'
+  - 'Referência da API':
+    - 'Endpoints': 'api/endpoints.md'
